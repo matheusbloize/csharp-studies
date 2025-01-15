@@ -1,0 +1,15 @@
+D:\projects\study\csharp-studies\projects\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+D:\projects\study\csharp-studies\projects\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+D:\projects\study\csharp-studies\projects\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+D:\projects\study\csharp-studies\projects\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+D:\projects\study\csharp-studies\projects\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.sourcelink.json
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+D:\projects\study\csharp-studies\projects\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
